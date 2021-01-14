@@ -1,9 +1,8 @@
 
 # 어떤 달에 교통사고가 많은지? (2017~2019)
-
 library(ggplot2)
-
 library(showtext)
+
 showtext_auto() 
 font_add(family = "cat", regular = "fonts/HoonWhitecatR.ttf")
 font_add(family = "dog", regular = "fonts/THEdog.ttf")
