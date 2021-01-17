@@ -1,9 +1,9 @@
 # Relation-between-weather-and-car-accident-using-R
 * presentation: https://www2.slideshare.net/HyeinGu/relation-between-weather-and-accidents-in-koreausing-r
 <br>
-## 1. 기획 의도 <br>
-날씨 요소와 교통 사고와의 관계를 R 프로그램을 통해 분석하였다. <br>
-비오는 날 또는 눈오는 날 교통사고량이 높아진다는 기사를 참고하여 실제 데이터를 비교했을 때 어떤 관계가 있는지 확인하고자 하였다. <br>
+## 1. 기획 의도 
+* 날씨 요소와 교통 사고와의 관계를 R 프로그램을 통해 분석하였다. <br>
+* 비오는 날 또는 눈오는 날 교통사고량이 높아진다는 기사를 참고하여 실제 데이터를 비교했을 때 어떤 관계가 있는지 확인하고자 하였다. <br>
 
 ## 2. 사용 Tool
 * R
